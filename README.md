@@ -1,15 +1,19 @@
-<h1 align="center">Bienvenido , soy <span id="typed-name"></span></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+I'm+Abraham+Hernández+⚡" alt="Typing SVG" />
+</p>
 
-<h1 align="center"> I'm Abraham Hernández ⚡ </h1>
-<h3 align="center">BackEnd Developer | Building the Future, One Line of Code at a Time 🚀</h3>
+<h2 align="center">Crafting the Future through Code and Curiosity</h2>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **UNIVERSIDAD PANAMERICANA**.
-- 🌱 I’m currently diving deeper into **BackEnd Development** and exploring **APIs, Docker, and Django**.
-- 💡 Passionate about solving complex problems and building scalable systems.
-- 📫 How to reach me: **abrahammartinezhdez629@gmail.com**
+### About Me
+
+I’m a backend developer in constant motion — driven by challenges, and inspired by solutions. Currently, I’m shaping systems at **Universidad Panamericana**, deepening my expertise in API design, containerized environments, and high-performance services.
+
+I'm exploring the power of Django, Docker, and RESTful architecture to build scalable applications. My mission? Solve real-world problems with elegant backend logic and purposeful code.
+
+If you're building something meaningful or have an exciting challenge — I’d love to connect: **abrahammartinezhdez629@gmail.com**
+
 
 ---
 

@@ -52,10 +52,28 @@ If you're building something meaningful or have an exciting challenge — I’d 
 
 ---
 
-### 📈 Activity Graph
+### 📁 Featured Projects
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true" />
+
+  <a href="https://github.com/AbrahamHdez01/BDA-PROJECT">
+    <img alt="BDA Project" src="https://img.shields.io/badge/-BDA--PROJECT-informational?style=flat&logo=postgresql&logoColor=white&color=00BFFF"/>
+  </a>
+
+  <a href="https://github.com/AbrahamHdez01/Proyecto-Final-Procesamiento-de-Imagenes">
+    <img alt="Procesamiento de Imágenes" src="https://img.shields.io/badge/-Procesamiento_de_Imágenes-informational?style=flat&logo=opencv&logoColor=white&color=00BFFF"/>
+  </a>
+
+  <a href="https://github.com/AbrahamHdez01/ERP">
+    <img alt="ERP" src="https://img.shields.io/badge/-ERP_System-informational?style=flat&logo=python&logoColor=white&color=00BFFF"/>
+  </a>
+
+  <a href="https://github.com/AbrahamHdez01/Proyecto-Final-Programacion-Avanzada">
+    <img alt="Programación Avanzada" src="https://img.shields.io/badge/-Programación_Avanzada-informational?style=flat&logo=cplusplus&logoColor=white&color=00BFFF"/>
+  </a>
+
 </p>
+
 
 ---
 

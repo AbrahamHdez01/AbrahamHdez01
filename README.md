@@ -85,5 +85,5 @@ If you're building something meaningful or have an exciting challenge — I’d 
 
 <!-- Efecto de texto -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Bienvenido+a+mi+perfil;Soy+BackEnd+Developer;Explorando+el+futuro+con+código" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile;I’m+BackEnd+Developer;Exploring+the+future+with+code" />
 </p>

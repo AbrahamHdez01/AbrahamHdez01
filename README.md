@@ -45,9 +45,9 @@ If you're building something meaningful or have an exciting challenge — I’d 
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="top langs" />
+<  img src="https://github-readme-stats.vercel.app/api?username=AbrahamHdez01&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbrahamHdez01&theme=radical" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbrahamHdez01&layout=compact&theme=radical" alt="top langs" />
 </p>
 
 ---

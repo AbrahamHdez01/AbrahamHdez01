@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome%2C+I'm+Abraham+Hernández+⚡" alt="Typing SVG" />
 </p>
 
-
 ---
 
 ### About Me
@@ -12,7 +11,6 @@ I’m a backend developer in constant motion — driven by challenges, and inspi
 I'm exploring the power of Django, Docker, and RESTful architecture to build scalable applications. My mission? Solve real-world problems with elegant backend logic and purposeful code.
 
 If you're building something meaningful or have an exciting challenge — I’d love to connect: **abrahammartinezhdez629@gmail.com**
-
 
 ---
 
@@ -30,8 +28,15 @@ If you're building something meaningful or have an exciting challenge — I’d 
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://instagram.com/abraham_hdez001" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-  <a href="https://discord.gg/#9685" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
+  <a href="https://instagram.com/abraham_hdez001" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/#9685" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/abraham-martínez-hernández-5a871029a" target="blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40"/>
+  </a>
 </p>
 
 ---
@@ -73,7 +78,6 @@ If you're building something meaningful or have an exciting challenge — I’d 
   </a>
 
 </p>
-
 
 ---
 

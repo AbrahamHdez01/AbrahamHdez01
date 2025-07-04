@@ -34,7 +34,6 @@ If you're building something meaningful or have an exciting challenge — I’d 
 
   <!-- Cloud / APIs -->
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"                             alt="Google Cloud"  width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/ArmanZR/swagger-icons/master/swagger-icon.svg"                  alt="Swagger API"   width="48" height="48"/>
 
 </p>
 

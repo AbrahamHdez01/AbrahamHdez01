@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome%2C+I'm+Abraham+Hernández+⚡" alt="Typing SVG" />
 </p>
@@ -19,12 +20,24 @@ If you're building something meaningful or have an exciting challenge — I’d 
 ### 🛠️ Languages and Tools
 
 <p align="center">
+  <!-- Back-end / Dev -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+
+  <!-- Front-end -->
+
+**<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>**
+**<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>**
+
+  <!-- Cloud / APIs -->
+
+**<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>**
+**<img src="https://raw.githubusercontent.com/ArmanZR/swagger-icons/master/swagger-icon.svg" width="40" height="40" title="REST / Swagger APIs"/>**
+
 </p>
 
 ---
@@ -50,6 +63,7 @@ If you're building something meaningful or have an exciting challenge — I’d 
 * **APIs**: Designing and consuming RESTful APIs
 * **Docker**: Containerizing applications for seamless deployment
 * **Django**: Building robust web applications with Django
+* **Google Cloud Console**: Managing cloud resources and serverless back-ends
 
 ---
 
@@ -97,8 +111,8 @@ If you're building something meaningful or have an exciting challenge — I’d 
 
 <p align="center">Let's build something amazing together! 💻✨</p>
 
-<!-- Efecto de texto -->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile;I’m+BackEnd+Developer;Exploring+the+future+with+code" />
 </p>
+
+---
